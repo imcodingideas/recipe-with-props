@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Recipe from './Recipe'
+import RecipeList from './RecipeList'
 import Navbar from './Navbar'
 import './RecipeApp.css'
 
@@ -8,12 +8,7 @@ export default class RecipeApp extends Component {
     return (
       <div className='App'>
         <Navbar />
-        <Recipe
-          title='Spaghetti'
-          ingredients={['flour', 'water']}
-          instructions='Mix ingredients'
-          img='spaghetti.jpg'
-          />
+        <RecipeList />
       </div>
     )
   }
