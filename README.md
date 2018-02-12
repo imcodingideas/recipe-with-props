@@ -1,1 +1,1 @@
-This is just a simple Recipe which lets you add things to state, using prop types, and passing functions down to child components. Nothing too crazy.
+This is just a simple Recipe App built in React which lets you add things to state, using prop types, and passing functions down to child components. Nothing too crazy.
