@@ -1,3 +1,1 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-This is just a simple React App to demostrate how to use props and set default props, and define required PropType.
+This is just a simple Recipe which lets you add things to state, using prop types, and passing functions down to child components. Nothing too crazy.
